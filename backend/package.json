@@ -1,0 +1,2 @@
+{"scripts":{"start":"node src/server.js"},"dependencies":{"express":"latest","cors":"latest","dotenv":"latest","mongoose":"latest","jsonwebtoken":"latest","bcryptjs":"latest"}}
+
